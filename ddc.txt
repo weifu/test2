@@ -1,4 +1,4 @@
-# Copyright 2015-2016 Fwolf <fwolf.aide+bin.public@gmail.com>
+#  * @copyright   Copyright (c) 2013, 2015 Holder
 # All rights reserved.
 
 ;lsdfj;lsdjfldjsklsncvxz
