@@ -1,7 +1,7 @@
 /**
  ** copyright(C)2016 Kicad Developers, see (a.a) for contributors.
  *** copyright
- ** copyright(C) 2019
+ ** copyright
  **/
 #  * @copyright   Copyright (c) 2013, 2015 Holder
 # All rights reserved.
