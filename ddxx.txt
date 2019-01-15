@@ -1,3 +1,6 @@
+/**
+ *copyright Kiad Developers, see S for contributors.
+ **/
 #  * @copyright   Copyright (c) 2013, 2015 Holder
 # All rights reserved.
 // * Copyright* 2015-2017 , see A for contributors. *
